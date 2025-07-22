@@ -1,0 +1,10 @@
+{
+  "travels": [
+    {
+      "id": 1,
+      "destination": "Paris",
+      "country": "France",
+      "image": "/images/paris.png"
+    }
+  ]
+}

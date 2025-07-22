@@ -1,0 +1,51 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Paneer Butter Masala",
+      "cuisine": "Indian",
+      "ingredients": [
+        "Paneer",
+        "Butter",
+        "Tomato Puree",
+        "Cream",
+        "Spices"
+      ],
+      "instructions": "Cook tomatoes and spices. Blend into gravy. Add paneer and cream. Serve hot.",
+      "prepTime": "15 mins",
+      "cookTime": "20 mins"
+ 
+    },
+    {
+      "id": 2,
+      "name": "Veg Fried Rice",
+      "cuisine": "Chinese-Indian",
+      "ingredients": [
+        "Rice",
+        "Carrot",
+        "Beans",
+        "Capsicum",
+        "Soy Sauce",
+        "Pepper"
+      ],
+      "instructions": "Fry vegetables, add cooked rice and sauces, mix well on high flame.",
+      "prepTime": "10 mins",
+      "cookTime": "15 mins"
+    },
+    {
+      "id": 3,
+      "name": "Rava Kesari",
+      "cuisine": "South Indian",
+      "ingredients": [
+        "Rava (Semolina)",
+        "Sugar",
+        "Ghee",
+        "Cashews",
+        "Cardamom"
+      ],
+      "instructions": "Roast rava, add boiling water and sugar. Stir with ghee until thick.",
+      "prepTime": "5 mins",
+      "cookTime": "10 mins"
+    }
+  ]
+}

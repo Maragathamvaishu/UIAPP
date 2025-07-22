@@ -1,0 +1,10 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "genre": "Sci-Fi",
+      "poster": "/images/movie1.png"
+    }
+  ]
+}

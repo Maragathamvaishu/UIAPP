@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Lo-Fi Chill Beats",
+    "description": "Relaxing music to help you focus or unwind.",
+    "image": "/images/headset.png",
+    "color": "bg-pink-500"
+  },
+  {
+    "title": "Pop Hits 2025",
+    "description": "Top trending pop tracks this year.",
+    "image": "/images/headset.png",
+    "color": "bg-pink-400"
+  }
+]

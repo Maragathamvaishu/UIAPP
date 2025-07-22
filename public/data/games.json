@@ -1,0 +1,10 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "Candy Crush",
+      "platform": "Mobile",
+      "icon": "/images/game1.png"
+    }
+  ]
+}
